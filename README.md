@@ -12,7 +12,7 @@
 
   ## Description
  
-This is a simple web app that uses[OpenAI](https://beta.openai.com/docs/introduction/overview) chatGPT to help you code.
+This is a simple web app that uses [OpenAI](https://beta.openai.com/docs/introduction/overview) chatGPT to help you code.
 
 This project was made from following [YouTube tutorial](https://www.youtube.com/watch?v=2FeymQoKvrk&t=3322s)
   
