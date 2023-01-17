@@ -36,16 +36,16 @@ This project was made from following [YouTube tutorial](https://www.youtube.com/
   
 ## Usage 
   
-<!-- * Navigate to the depoloyed [Herouku page](https://still-scrubland-96431.herokuapp.com/) to begin creating AI Images! -->
+* Navigate to the depoloyed [Herouku page](https://guarded-sands-43499.herokuapp.com/) to begin Codex!
 
-<!-- * To create an image use the prompt box to create what image you would want to see (ie. Donut Mosaic)
-* Select the size of the image
-* Click `Generate` to generate your image -->
+* To use OpenAI Codex, in the prompt box ask a question (ie: Write a for loop in javascript) 
+
+* press `Enter` to generate your code
 
   
 ## Demo
 
-   <!-- ![Screen Shot 2022-12-31 at 12 07 10 PM (2)](https://user-images.githubusercontent.com/111208223/210152287-6ae667ff-111f-4af0-87a4-67f73cefd8ec.png) -->
+   
 
 
   
