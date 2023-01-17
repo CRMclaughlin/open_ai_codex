@@ -87,9 +87,9 @@ const handleSubmit = async (e) => {
     loader(messageDiv)
 
     const url = process.env.NODE_ENV ==='production'
-    ? '/'
-    : 'http://localhost:3500'
-    const response = await fetch('http://localhost:3500', {
+        ? '/'
+        : 'http://localhost:3500'
+    const response = await fetch(url, {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
