@@ -21,6 +21,7 @@ This project was made from following [YouTube tutorial](https://www.youtube.com/
   
   * VS Code
   * Node.js
+  * Express
   * Generate an API KEY at [OpenAI](https://beta.openai.com/) and add it to the `.env` file.
   
   

@@ -1,0 +1,27 @@
+{
+  "name": "open_ai_codex",
+  "version": "1.0.0",
+  "description": "## Table of Contents   * [Description](#description)   * [Installation](#installation)   * [Usuage](#usage)   * [Demo](#demo)   * [License](#license)   * [Contributing](#contributing)   * [Tests](#tests)   * [Questions](#questions)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm run dev\"",
+    "install": "cd server && npm i && cd ../client && npm i",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "heroku-postbuild": "cd client && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRMclaughlin/open_ai_codex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRMclaughlin/open_ai_codex/issues"
+  },
+  "homepage": "https://github.com/CRMclaughlin/open_ai_codex#readme",
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}

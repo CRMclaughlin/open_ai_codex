@@ -6,7 +6,7 @@
   "main": "script.js",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npx vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
