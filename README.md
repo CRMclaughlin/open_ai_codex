@@ -35,7 +35,7 @@ This project was made from following [YouTube tutorial](https://www.youtube.com/
   
 * Navigate to the depoloyed [Herouku page](https://guarded-sands-43499.herokuapp.com/) to begin Codex!
 
-* To use OpenAI Codex, in the prompt box ask a question (ie: Write a for loop in javascript) 
+* To use OpenAI Codex, in the text box write a prompt (ie: Write a for loop in javascript) 
 
 * Press `Enter` to generate your code
 
