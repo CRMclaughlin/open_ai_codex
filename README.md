@@ -29,10 +29,7 @@ This project was made from following [YouTube tutorial](https://www.youtube.com/
     
     1. Copy link from Github repo and clone to your coding workspace
     2. In your terminal use the command `npm init -y` to install Node Package Manager
-    
 
-    
-    
   
 ## Usage 
   
@@ -40,13 +37,12 @@ This project was made from following [YouTube tutorial](https://www.youtube.com/
 
 * To use OpenAI Codex, in the prompt box ask a question (ie: Write a for loop in javascript) 
 
-* press `Enter` to generate your code
+* Press `Enter` to generate your code
 
   
 ## Demo
 
-   
-
+   <img width="1473" alt="codex-screenshot 58 53 PM" src="https://user-images.githubusercontent.com/111208223/213000006-0e804ee9-3061-445d-a66e-885c34358465.png">
 
   
 ## License
